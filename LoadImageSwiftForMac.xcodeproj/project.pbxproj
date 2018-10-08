@@ -13,6 +13,7 @@
 		B3B90D1F216BE2B3001F2EB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3B90D1D216BE2B3001F2EB3 /* Main.storyboard */; };
 		B3B90D2B216BE2B3001F2EB3 /* LoadImageSwiftForMacTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B90D2A216BE2B3001F2EB3 /* LoadImageSwiftForMacTests.swift */; };
 		B3B90D36216BE2B3001F2EB3 /* LoadImageSwiftForMacUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B90D35216BE2B3001F2EB3 /* LoadImageSwiftForMacUITests.swift */; };
+		B3B90D44216BE303001F2EB3 /* default_image.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B3B90D43216BE303001F2EB3 /* default_image.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		B3B90D31216BE2B3001F2EB3 /* LoadImageSwiftForMacUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoadImageSwiftForMacUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3B90D35216BE2B3001F2EB3 /* LoadImageSwiftForMacUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadImageSwiftForMacUITests.swift; sourceTree = "<group>"; };
 		B3B90D37216BE2B3001F2EB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3B90D43216BE303001F2EB3 /* default_image.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = default_image.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		B3B90D16216BE2B2001F2EB3 /* LoadImageSwiftForMac */ = {
 			isa = PBXGroup;
 			children = (
+				B3B90D43216BE303001F2EB3 /* default_image.jpeg */,
 				B3B90D17216BE2B2001F2EB3 /* AppDelegate.swift */,
 				B3B90D19216BE2B2001F2EB3 /* ViewController.swift */,
 				B3B90D1B216BE2B3001F2EB3 /* Assets.xcassets */,
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3B90D44216BE303001F2EB3 /* default_image.jpeg in Resources */,
 				B3B90D1C216BE2B3001F2EB3 /* Assets.xcassets in Resources */,
 				B3B90D1F216BE2B3001F2EB3 /* Main.storyboard in Resources */,
 			);
