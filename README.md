@@ -3,7 +3,7 @@
 
 <img src="https://github.com/MDalprato/LoadImageSwiftForMac/blob/master/LoadImageSwiftForMacImg.png?raw=true" alt="LoadImage Icon" align="right" />
 
-**LoadImageSwiftForMac** is a super easy one page project where you can load an email in a UiView.
+**LoadImageSwiftForMac** is a super easy one page project where you can load an image in a UiView.
 
 ## Author
 
