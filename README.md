@@ -7,7 +7,7 @@
 
 ## Author
 
-[Hyper](http://hyper.no) made this with ❤️
+[Marco Dalprato](http://www.marcodalprato.it) made this with ❤️
 
 ## Contribute
 
